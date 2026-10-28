@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace the placeholder domain in sitemap.xml with the final public domain before submitting it to Google Search Console.
+Sitemap: https://YOUR-DOMAIN.example/sitemap.xml
